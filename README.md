@@ -1,4 +1,5 @@
-# RestaurantPriority
+# Restaurant Priority
+## Members: Matheus Freitas, Vitor Bandeira, Thomas Bekhor
 YOLOv8 Object Detection model that recognizes tables from a upper view, such as from a security camera. The Dataset used was obtained in Roboflow and can be accessed [here](https://universe.roboflow.com/new-workspace-rshoj/luis/dataset/1). Although it has multiple classes, the model only aims to predict people/waiters and tables, with the goal of detecting waiting tables and warning staff which clients should be given higher priority.
 
 ## Training
